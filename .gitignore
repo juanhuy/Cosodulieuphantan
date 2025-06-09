@@ -1,0 +1,30 @@
+# Ignore Maven build output
+target/
+*.jar
+*.war
+*.ear
+
+# Eclipse & IntelliJ files (nếu dùng IDE)
+*.iml
+.idea/
+.project
+.classpath
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# VSCode (nếu dùng)
+.vscode/
+
+# Git LFS tracking file (nếu dùng)
+.gitattributes
+
